@@ -25,7 +25,13 @@ It's in our hope that the public and all people/organizations involved with Free
 - R Studio, for making visualizations with cleaned up spreadsheets
 
 
+<h2>Process</h2>
 
+See the Remind-File to see R Studio code and my process.
+
+<h2>Conclusions</h2>
+
+This project was a great opportunity to make visualizations with real data in R Studio. 
 
 
 
